@@ -28,7 +28,7 @@
   cscript //nologo slmgr.vbs /ckms
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
-  cscript //nologo ospp.vbs /inpkey: 
+  cscript //nologo ospp.vbs /inpkey:D9GTG-NP7DV-T6JP3-B6B62-JB89R 
 
   :end
   :notsupported
