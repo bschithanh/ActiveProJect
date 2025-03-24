@@ -142,9 +142,10 @@
   cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-stil.xrm-ms"
   cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-ul-oob.xrm-ms"
 
-  cscript //nologo slmgr.vbs /ckms
+ 
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
+  cscript //nologo ospp.vbs /sethst:122.226.152.230
   cscript //nologo ospp.vbs /inpkey:YG9NW-3K39V-2T3HJ-93F3Q-G83KT
   cscript //nologo ospp.vbs /inpkey:GNFHQ-F6YQM-KQDGJ-327XX-KQBVC
 
