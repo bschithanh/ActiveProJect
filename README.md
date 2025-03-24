@@ -30,5 +30,39 @@
   ```
 
 ## ProJect 2021:
+
+  ```php
+  
+  ```
+
+  Hoặc
+  
+  ```php
+  @echo off
+  title  Activate Microsoft Office Projet 2024 for FREE - https://github.com/BsChiThanh 
+  cls
+  color F4
+  mode con cols=98 lines=30
+   
+  if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16"
+  if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16"
+
+  cscript ospp.vbs /inslic:"..\root\Licenses16\pkeyconfig-office.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance*.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\projectprovl_kms*.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\projectpro2021vl_kms*.xrm-ms
+
+  cscript //nologo slmgr.vbs /ckms
+  cscript //nologo ospp.vbs /setprt:1688
+  cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
+  cscript //nologo ospp.vbs /inpkey:FTNWT-C6WBT-8HMGF-K9PRX-QV9H8
+  cscript //nologo ospp.vbs /inpkey:J2JDC-NJCYY-9RGQ4-YXWMH-T3D4T
+
+  :end
+  :notsupported
+  :halt
+  pause >nul
+  ```
+
 ## ProJect 2019:
 ## ProJect 2016
