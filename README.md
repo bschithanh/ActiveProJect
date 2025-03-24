@@ -109,7 +109,7 @@
   cscript //nologo ospp.vbs /sethst:122.226.152.230
   cscript //nologo ospp.vbs /inpkey:B4NPR-3FKK7-T2MBV-FRQ4W-PKD2B
   cscript //nologo ospp.vbs /inpkey:C4F7P-NCP8C-6CQPT-MQHV9-JXD2M
-  cscript //nologo ospp.vbs /inpkey:GT3N6-TPK83-QX6V8-KFBRV-RGFWP
+
 
   :end
   :notsupported
