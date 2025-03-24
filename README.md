@@ -25,10 +25,11 @@
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ul.xrm-ms"
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ul-oob.xrm-ms"
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ppd.xrm-ms"
-  cscript //nologo slmgr.vbs /ckms
+ 
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
-  cscript //nologo ospp.vbs /inpkey:D9GTG-NP7DV-T6JP3-B6B62-JB89R 
+  cscript //nologo ospp.vbs /inpkey:FQQ23-N4YCY-73HQ3-FM9WC-76HF4
+  cscript //nologo ospp.vbs /inpkey:CBNBW-Y38B2-926G3-FDJTQ-YBM7F
 
   :end
   :notsupported
