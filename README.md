@@ -154,3 +154,18 @@
   :halt
   pause >nul
   ```
+
+# TẠO GIA HẠN KÍCH HOẠT (AUTO RENEW)
+  - Quý vị dùng KMS từ 5.3 trở lên từ [trang chủ](https://github.com/abbodi1406/KMS_VL_ALL_AIO/releases), Run nó lên, chọn 1 để kích hoạt vĩnh viễn, chọn 2 để tạo Auto Renew.
+  - Hoặc mở **cmd** bằng quyền **Run as Administrator** rồi copy đoạn mã sau dán vào và đánh **Enter**
+    
+    ```php
+    powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/KMS.ps1)
+    ```
+
+    ![image](https://github.com/user-attachments/assets/1aba37f8-1d44-415b-a880-abc6a4e17bd1)
+
+  - Chọn 1 hoặc 2 là xong!
+
+- [Link source](https://docs.google.com/spreadsheets/d/e/2PACX-1vTId_2VGY1MeQdeH6OU6Oja27zMe91mHmYUl6aVWsyKlcFBuLwvr2M-9uaBRWDUqxPAi5xE-pqief4d/pubhtml#)
+- https://msguides.com
