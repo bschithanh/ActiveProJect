@@ -103,9 +103,10 @@
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2019VL_KMS_Client_AE-ul-oob.xrm-ms"
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2019VL_KMS_Client_AE-ppd.xrm-ms"
 
-  cscript //nologo slmgr.vbs /ckms
+  
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
+  cscript //nologo ospp.vbs /sethst:122.226.152.230
   cscript //nologo ospp.vbs /inpkey:B4NPR-3FKK7-T2MBV-FRQ4W-PKD2B
   cscript //nologo ospp.vbs /inpkey:C4F7P-NCP8C-6CQPT-MQHV9-JXD2M
 
