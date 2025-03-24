@@ -19,12 +19,12 @@
   if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16"
 
   cscript ospp.vbs /inslic:"..\root\Licenses16\pkeyconfig-office.xrm-ms"
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ul.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ul-oob.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ppd.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ul.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ul-oob.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2024VL_KMS_Client_AE-ppd.xrm-ms"
   cscript //nologo slmgr.vbs /ckms
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
@@ -55,12 +55,12 @@
   if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16"
 
   cscript ospp.vbs /inslic:"..\root\Licenses16\pkeyconfig-office.xrm-ms"
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ul.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ul-oob.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ppd.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ul.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ul-oob.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ppd.xrm-ms"
 
   cscript //nologo slmgr.vbs /ckms
   cscript //nologo ospp.vbs /setprt:1688
@@ -93,12 +93,12 @@
   if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16"
 
   cscript ospp.vbs /inslic:"..\root\Licenses16\pkeyconfig-office.xrm-ms"
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2019VL_KMS_Client_AE-ul.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2019VL_KMS_Client_AE-ul-oob.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2019VL_KMS_Client_AE-ppd.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2019VL_KMS_Client_AE-ul.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2019VL_KMS_Client_AE-ul-oob.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2019VL_KMS_Client_AE-ppd.xrm-ms"
 
   cscript //nologo slmgr.vbs /ckms
   cscript //nologo ospp.vbs /setprt:1688
@@ -131,12 +131,12 @@
   if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16"
 
   cscript ospp.vbs /inslic:"..\root\Licenses16\pkeyconfig-office.xrm-ms"
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2016VL_KMS_Client_AE-ul.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2016VL_KMS_Client_AE-ul-oob.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2016VL_KMS_Client_AE-ppd.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-root.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-stil.xrm-ms"
+  cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance-ul-oob.xrm-ms"
 
   cscript //nologo slmgr.vbs /ckms
   cscript //nologo ospp.vbs /setprt:1688
