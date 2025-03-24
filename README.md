@@ -64,9 +64,10 @@
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ul-oob.xrm-ms"
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ppd.xrm-ms"
 
-  cscript //nologo slmgr.vbs /ckms
+ 
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
+  cscript //nologo ospp.vbs /sethst:122.226.152.230
   cscript //nologo ospp.vbs /inpkey:FTNWT-C6WBT-8HMGF-K9PRX-QV9H8
   cscript //nologo ospp.vbs /inpkey:J2JDC-NJCYY-9RGQ4-YXWMH-T3D4T
 
