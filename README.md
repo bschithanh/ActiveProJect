@@ -49,8 +49,13 @@
 
   cscript ospp.vbs /inslic:"..\root\Licenses16\pkeyconfig-office.xrm-ms"
   cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance*.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\projectprovl_kms*.xrm-ms
-  cscript ospp.vbs /inslic:"..\root\Licenses16\projectpro2021vl_kms*.xrm-ms
+
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ul.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ul-oob.xrm-ms
+  cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectPro2021VL_KMS_Client_AE-ppd.xrm-ms
 
   cscript //nologo slmgr.vbs /ckms
   cscript //nologo ospp.vbs /setprt:1688
