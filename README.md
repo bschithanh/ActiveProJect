@@ -48,8 +48,6 @@
   if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16"
 
   cscript ospp.vbs /inslic:"..\root\Licenses16\pkeyconfig-office.xrm-ms"
-  cscript ospp.vbs /inslic:"..\root\Licenses16\client-issuance*.xrm-ms
-
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ppd.xrm-ms
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul.xrm-ms
   cscript ospp.vbs /inslic:"..\root\Licenses16\ProjectProVL_KMS_Client-ul-oob.xrm-ms
