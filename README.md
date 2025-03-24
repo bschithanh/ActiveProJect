@@ -28,6 +28,7 @@
  
   cscript //nologo ospp.vbs /setprt:1688
   cscript //nologo ospp.vbs /sethst:192.168.2.81.2.7.0
+  cscript //nologo ospp.vbs /sethst:122.226.152.230
   cscript //nologo ospp.vbs /inpkey:FQQ23-N4YCY-73HQ3-FM9WC-76HF4
   cscript //nologo ospp.vbs /inpkey:CBNBW-Y38B2-926G3-FDJTQ-YBM7F
 
