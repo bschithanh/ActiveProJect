@@ -80,7 +80,7 @@
 ## ProJect 2019:
 
   ```php
-  
+  powershell iex (irm https://raw.githubusercontent.com/bschithanh/nguon/main/ProJect2019.ps1)
   ```
 
   Hoặc
